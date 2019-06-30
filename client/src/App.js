@@ -13,10 +13,10 @@ const styles = theme => ({
   root: {
     width: '100%',
     marginTop: theme.spacing.unit * 3,
-    overflowX: 'auto'
+    overflowX: 'auto',
   },
   table : {
-    minWidth: 1080
+    minWidth: 1080,
   }
 })
 
@@ -31,7 +31,7 @@ const mandatas = [{
   'id': 2,
   'image': 'https://placeimg.com/64/64/2',
   'name': '김미정',
-  'birthday': '540403',
+  'birthday': '740403',
   'gender': '여자',
   'job': '디자이너'
 },{
